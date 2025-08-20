@@ -33,7 +33,9 @@ Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e ve
 
 >
 > Técnico em Eletrotécnica Integrado
+>
 > INSTITUTO FEDERAL DE EDUCAÇÃO, CIẼNCIA E TECNOLOGIA DO CEARÁ - IFCE, *CAMPUS* FORTALEZA
+>
 > Conclusão: 2012.2
 >
 
@@ -41,20 +43,27 @@ Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e ve
 
 >
 > Tecnólogo em Análise e Desenvolvimento de Sistemas
+>
 > CENTRO UNIVERSITÁRIO UNIFATECIE
+>
 > Previsão de conclusão: 2025.2
 >
 
 >
 > Bacharelado em Engenharia de Mecatrônica
+>
 > INSTITUTO FEDERAL DE EDUCAÇÃO, CIẼNCIA E TECNOLOGIA DO CEARÁ - IFCE, *CAMPUS* FORTALEZA
+>
 > Conclusão: 2024.2
 >
 
 ## Pós-Graduação: Especialização
+
 >
 > Especialização em Controle e Automação Industrial
+>
 > FACUMINAS
+>
 > Conclusão: 2025.1
 >
 
