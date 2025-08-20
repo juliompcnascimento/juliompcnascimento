@@ -1,36 +1,63 @@
-- 👋 Hi, I’m @juliompcnascimento
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Olá, eu sou @juliompcnascimento
+- Tenho interese em desenvolvimento WEB Front End e Back End
+- Atualmente estou estudando HTML5, CSS3, JavaScript e seus *frameworks*
+- Sou bastante inclinado ao mundo *open source* e o GNU/Linux
+- Tenho um ótimo domínio de inglês (cursos intermediário e avançado)
+- Gostaria de mais de colaborar com algum projeto linux
 
 <!---
 juliompcnascimento/juliompcnascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Meu Perfil Dev
-
-## Sobre mim
+# Sobre mim
 
 Me chamo Julio Mario Pinheiro Cordeiro Nascimento, e sou um desenvolvedor em formação.
 
-Estudo HTML5, CSS3 e JavaScript, pois meu foco e interesse é um ser um desenvolvedor WEB.
+Estudo HTML5, CSS3 e JavaScript, pois meu foco e interesse é um ser um desenvolvedor WEB, primeiramente o *front end*, depois *back end* para quem sabe alcançar o estágio de *full stack*.
 
-Já possuo bastante experiência atuando com planilhas automatizadas usando JavaScript através do Google Sheets e Google Apps Script, e foi o que me impulssionou à investir na carreira de desenvolvedor.
+Apesar disso, não m limito em estudar apenas as linguagens acima e suas tecnologias, procuro me informar sobre tecnologia em geral e tenho muito interesse no acompanhamento do mundo *open source*, tendo uma grande inclinação para as distribuições GNU/Linux em geral, tendo trabalhado com Ubuntu, Linux Mint e o TigerOS, uma distribuição linux brasileira desevolvida com base no Kubuntu.
 
-Tenho a matemática e lógica como grandes aliadas, e que me fazem ter interesse na resolução de problemas.
+Minha maior experiência com programação vem da atuação com planilhas automatizadas usando JavaScript através do *Google Sheets* e *Google Apps Script*, e foi o que me impulssionou à investir na carreira de desenvolvedor.
 
-## Meu Portfolio
+Em meu primeiro trabalho foi quando entrei nesse mundo de desenvolvimento, começando na criação e edição de planilhas automatizadas vias fórmulas nativas das planilhas, e posteriormente com JavaScript para as planilhas do *Google Sheets*. Em seguida, já interessedo em aprender mais e estudando sobre programação e o desenvolvimento de sites e aplicações, conheci a plataforma *AppSheet* que permite criar aplicações WEB e para dispositivos móveis de forma *no-code*, e aplicativos WEBAPP desenvolvidos a partir do *Google Apps Script*, incluindo a programação em HTMl das páginas, estilização com o MaterializeCSS e interatividade usando JavaScript.
 
-### Planilha-Sistema de Gerenciamento de Contratos Públicos Fato Gerador com Mão-De-Obra com Dedicação Exclusiva
+Com os conhecimentos aprendidos acima, pude colaborar em meu primeiro emprego densenvolvendo soluções que tornaram o trabalho meu, de meu setor e de otros setores mais prático e eficiente, tendo desenvolvido planilhas automatizadas que trocam o trabalho repetitivo por alguns comandos e cliques, como planilhas de gestão de contratos e criação e formatação de documentos para exportação em PDF; criação de WEBAPP para controle de consumo de água; criação de aplicações (WEB e móvel) usando *AppSheet* para gestão de empenhos e notas fiscais, estoque de materiais, gestão de manutenção de aparelhos de ar-condicionados e até inventário de bens.
 
-Desenvolvimento de planilha no Google Sheets com várias abas (páginas) separando cada funcionalidade do sistema e automatizado com javascript voltado aos prododos Google usando Google Scripts.
+Por gostar bastante das ciẽncias exatas, principalmente da matemática, sempre me interessei na solução de problemas, principalmente no que tange à melhorar trabalhos que podem ser automatizados ou tornados mais práticos, por isso também acabei fazendo minha graduação em Engenharia de Mecatrõnica, onde aprendi a arte de usar as tercnologias da computação aliadas com sensores e atuadores.
 
-### Planilha-Sistema de Gerenciamento de Contratos Públicos Conta Vinculada com Mão-De-Obra com Dedicação Exclusiva
+Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e veja mais a meu respeito.
 
-Desenvolvimento de planilha no Google Sheets com várias abas (páginas) separando cada funcionalidade do sistema e automatizado com javascript voltado aos prododos Google usando Google Scripts.
+# Formações Acadêmicas
 
-### Sistema WEBAPP de Registro e Controle do Consumo de Água do Restaurante Acadêmico do IFCE 
+## Ensimo Médio e Técnico Integrado
 
-Desenvolvimento de um WEBAPP usando o Google Scripts, estilizado com o Materialize CSS, com três páginas separando cada funcionalizade do sistema: (i) registro das leituras; (ii) registro das tarifas; e (iii) cálculo e registro de valores de de eventuais faturamentos.
+>
+> Técnico em Eletrotécnica Integrado
+> INSTITUTO FEDERAL DE EDUCAÇÃO, CIẼNCIA E TECNOLOGIA DO CEARÁ - IFCE, *CAMPUS* FORTALEZA
+> Conclusão: 2012.2
+>
 
+## Graduação
+
+>
+> Tecnólogo em Análise e Desenvolvimento de Sistemas
+> CENTRO UNIVERSITÁRIO UNIFATECIE
+> Previsão de conclusão: 2025.2
+>
+
+>
+> Bacharelado em Engenharia de Mecatrônica
+> INSTITUTO FEDERAL DE EDUCAÇÃO, CIẼNCIA E TECNOLOGIA DO CEARÁ - IFCE, *CAMPUS* FORTALEZA
+> Conclusão: 2024.2
+>
+
+## Pós-Graduação: Especialização
+>
+> Especialização em Controle e Automação Industrial
+> FACUMINAS
+> Conclusão: 2025.1
+>
+
+# Cursos e Outras Formações
+
+- Inglês Intermediário e Avançado pelo CLEC (Centro de Linguas Estrangeiras do Ceará).
