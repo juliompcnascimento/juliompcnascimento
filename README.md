@@ -68,3 +68,4 @@ Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e ve
 # Outros Cursos e Formações
 
 - Inglês Intermediário e Avançado pelo CLEC (Centro de Linguas Estrangeiras do Ceará).
+- Curso de HTML5 e CSS3, Módulos 1, 2 e 3, pela plataforma Curso em Vídeo.
