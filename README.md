@@ -13,17 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 Me chamo Julio Mario Pinheiro Cordeiro Nascimento, e sou um desenvolvedor em formação.
 
-Estudo HTML5, CSS3 e JavaScript, pois meu foco e interesse é um ser um desenvolvedor WEB, primeiramente o *front end*, depois *back end* para quem sabe alcançar o estágio de *full stack*.
+Estudo HTML5, CSS3 e JavaScript, pois meu foco e interesse é um ser um desenvolvedor WEB, primeiramente em *front end*, depois *back end* para quem sabe alcançar o estágio de *full stack*.
 
-Apesar disso, não m limito em estudar apenas as linguagens acima e suas tecnologias, procuro me informar sobre tecnologia em geral e tenho muito interesse no acompanhamento do mundo *open source*, tendo uma grande inclinação para as distribuições GNU/Linux em geral, tendo trabalhado com Ubuntu, Linux Mint e o TigerOS, uma distribuição linux brasileira desevolvida com base no Kubuntu.
+Porém, não estudo apenas as linguagens acima e suas tecnologias, procuro me informar sobre tecnologia em geral e tenho muito interesse no mundo *open source*, e gosto bastante das distribuições GNU/Linux em geral, tendo trabalhado com Ubuntu, Linux Mint e o TigerOS.
 
-Minha maior experiência com programação vem da atuação com planilhas automatizadas usando JavaScript através do *Google Sheets* e *Google Apps Script*, e foi o que me impulssionou à investir na carreira de desenvolvedor.
+Minha maior experiência com programação vem da atuação com planilhas automatizadas e WEBAPPs, e foi o que me impulssionou à investir na carreira de desenvolvedor.
 
-Em meu primeiro trabalho foi quando entrei nesse mundo de desenvolvimento, começando na criação e edição de planilhas automatizadas vias fórmulas nativas das planilhas, e posteriormente com JavaScript para as planilhas do *Google Sheets*. Em seguida, já interessedo em aprender mais e estudando sobre programação e o desenvolvimento de sites e aplicações, conheci a plataforma *AppSheet* que permite criar aplicações WEB e para dispositivos móveis de forma *no-code*, e aplicativos WEBAPP desenvolvidos a partir do *Google Apps Script*, incluindo a programação em HTMl das páginas, estilização com o MaterializeCSS e interatividade usando JavaScript.
+Entrei nesse mundo de desenvolvimento no meio primeiro ambiente de trablho profissional como Técnico em Eletrotécnica e gestor de equipes, criando e editando planilhas automatizadas vias fórmulas nativas das aplicações e *scripts* em VBA (*Micrososft Excel*) e JavaScript (*Google Sheets*) por meio do *Google Apps Script*, que contribuiam para aptraticidade e eficiência do meu trabalho, do meu setor e de outros setores na empresa, trocando o trabalho operacional repetitivo, e sujeito à erros, por automatizações via *scripts*. Em seguida, já interessedo em aprender mais e estudando sobre programação e o desenvolvimento de sites e aplicações, conheci a plataforma *AppSheet* que permite criar aplicações WEB e para dispositivos móveis de forma *no-code*, e aplicativos WEBAPP desenvolvidos a partir do *Google Apps Script*, incluindo a programação em HTMl das páginas, estilização com o MaterializeCSS e interatividade usando JavaScript. Pude desenvolver desenvolver aplicações que ajudavam na gestão e fiscalização de contratos, gestão de empenhos e notas fiscais, controle de estoque de materiais e inventário de bens.
 
-Com os conhecimentos aprendidos acima, pude colaborar em meu primeiro emprego densenvolvendo soluções que tornaram o trabalho meu, de meu setor e de otros setores mais prático e eficiente, tendo desenvolvido planilhas automatizadas que trocam o trabalho repetitivo por alguns comandos e cliques, como planilhas de gestão de contratos e criação e formatação de documentos para exportação em PDF; criação de WEBAPP para controle de consumo de água; criação de aplicações (WEB e móvel) usando *AppSheet* para gestão de empenhos e notas fiscais, estoque de materiais, gestão de manutenção de aparelhos de ar-condicionados e até inventário de bens.
-
-Por gostar bastante das ciẽncias exatas, principalmente da matemática, sempre me interessei na solução de problemas, principalmente no que tange à melhorar trabalhos que podem ser automatizados ou tornados mais práticos, por isso também acabei fazendo minha graduação em Engenharia de Mecatrõnica, onde aprendi a arte de usar as tercnologias da computação aliadas com sensores e atuadores.
+Por gostar bastante das ciências exatas, principalmente da matemática, sempre me interessei na solução de problemas, principalmente no que diz respeito em melhorar trabalhos que podem ser automatizados ou tornados mais práticos, por isso também ingressei na graduação em Engenharia de Mecatrõnica, onde aprendi a arte de usar as tercnologias da computação aliadas com sensores e atuadores.
 
 Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e veja mais a meu respeito.
 
@@ -67,6 +65,6 @@ Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e ve
 > Conclusão: 2025.1
 >
 
-# Cursos e Outras Formações
+# Outros Cursos e Formações
 
 - Inglês Intermediário e Avançado pelo CLEC (Centro de Linguas Estrangeiras do Ceará).
