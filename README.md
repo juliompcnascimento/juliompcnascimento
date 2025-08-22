@@ -3,7 +3,7 @@
 - Atualmente estou estudando HTML5, CSS3, JavaScript e seus *frameworks*
 - Sou bastante inclinado ao mundo *open source* e o GNU/Linux
 - Tenho um ótimo domínio de inglês (cursos intermediário e avançado)
-- Gostaria de mais de colaborar com algum projeto linux
+- Desejo bastante em colaborar com algum projeto linux
 
 <!---
 juliompcnascimento/juliompcnascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
