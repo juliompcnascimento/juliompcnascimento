@@ -23,7 +23,7 @@ Entrei nesse mundo de desenvolvimento no meu primeiro ambiente de trablho profis
 
 Por gostar bastante das ciências exatas, principalmente da matemática, sempre me interessei na solução de problemas, principalmente no que diz respeito em melhorar trabalhos que podem ser automatizados ou tornados mais práticos, por isso também ingressei na graduação em Engenharia de Mecatrônica, onde aprendi a arte de usar as tecnologias da computação aliadas com sensores e atuadores, e fiz o curso de Tecnólogo em Análise e Desenvolvimento de Sistemas para aprofundar meus conhecimentos em Tecnologia da Informação..
 
-Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e veja mais a meu respeito.
+Seja bem-vindo e bem-vinda à minha página inicial do meu GitHub, continue e veja mais a meu respeito. Conheça também a [minha página pessoal](https://juliompcnascimento.github.io/meu-perfil).
 
 # Formações Acadêmicas
 
