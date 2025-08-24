@@ -27,7 +27,7 @@ Sejam bem-vindos à página inicial do meu GitHub, continue e veja mais a meu re
 
 # Formações Acadêmicas
 
-## Ensimo Médio e Técnico Integrado
+## Ensino Médio e Técnico Integrado
 
 >
 > Técnico em Eletrotécnica Integrado
