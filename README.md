@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Sobre mim
 
-Me chamo Julio Mario Pinheiro Cordeiro Nascimento, e sou um desenvolvedor em formação.
+Me chamo Júlio Mário Pinheiro Cordeiro Nascimento, e sou um desenvolvedor em formação.
 
 Estudo HTML5, CSS3 e JavaScript, pois meu foco principal hoje é ser um desenvolvedor WEB, primeiramente em *front end*, depois *back end* para quem sabe alcançar o estágio de *full stack*.
 
