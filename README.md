@@ -15,7 +15,7 @@ Me chamo Julio Mario Pinheiro Cordeiro Nascimento, e sou um desenvolvedor em for
 
 Estudo HTML5, CSS3 e JavaScript, pois meu foco principal hoje é ser um desenvolvedor WEB, primeiramente em *front end*, depois *back end* para quem sabe alcançar o estágio de *full stack*.
 
-Porém, não estudo apenas as linguagens acima e suas tecnologias, procuro me informar sobre tecnologia em geral e tenho muito interesse no mundo *open source*. Gosto bastante das distribuições GNU/Linux em geral, tendo trabalhado com Ubuntu, Linux Mint e o TigerOS, sendo essa última a distruição [Linux](https://www.linux.org/) que utilizo atualmente..
+Porém, não estudo apenas as linguagens acima e suas tecnologias, procuro me informar sobre tecnologia em geral e tenho muito interesse no mundo *open source*. Gosto bastante das distribuições GNU/Linux em geral, tendo trabalhado com Ubuntu, Linux Mint e o TigerOS, sendo essa última a distruição [Linux](https://www.linux.org/) que utilizo atualmente.
 
 Minha maior experiência com programação vem da atuação com planilhas automatizadas e WEBAPPs, e foi o que me impulssionou à investir na carreira de desenvolvedor.
 
