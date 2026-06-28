@@ -1,9 +1,8 @@
-- Olá, eu sou @juliompcnascimento
-- Tenho interese em desenvolvimento WEB Front End e Back End
+- Olá, mundo! Eu sou @juliompcnascimento
+- Interesso-me por Desenvolvimento WEB e o mundo *Open Source / Linux*
 - Atualmente estou estudando HTML5, CSS3, JavaScript e seus *frameworks*
-- Sou bastante inclinado ao mundo *open source* e o GNU/Linux
 - Tenho um ótimo domínio de inglês (cursos intermediário e avançado)
-- Desejo bastante em colaborar com algum projeto linux
+- Gostaria muito em colaborar com algum projeto linux
 
 <!---
 juliompcnascimento/juliompcnascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +43,7 @@ Sejam bem-vindos à página inicial do meu GitHub, continue e veja mais a meu re
 >
 > CENTRO UNIVERSITÁRIO UNIFATECIE
 >
-> Previsão de conclusão: 2025.2
+> Conclusão: 2026.1
 >
 
 >
@@ -69,3 +68,4 @@ Sejam bem-vindos à página inicial do meu GitHub, continue e veja mais a meu re
 
 - Inglês Intermediário e Avançado pelo CLEC (Centro de Linguas Estrangeiras do Ceará).
 - Curso de HTML5 e CSS3, Módulos 1, 2 e 3, pela plataforma Curso em Vídeo.
+- Curso de Responsive Web Design Certification pela [freeCodeCamp](!https://www.freecodecamp.org/) (Em progresso).
