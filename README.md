@@ -68,4 +68,4 @@ Sejam bem-vindos à página inicial do meu GitHub, continue e veja mais a meu re
 
 - Inglês Intermediário e Avançado pelo CLEC (Centro de Linguas Estrangeiras do Ceará).
 - Curso de HTML5 e CSS3, Módulos 1, 2 e 3, pela plataforma Curso em Vídeo.
-- Curso de Responsive Web Design Certification pela [freeCodeCamp](!https://www.freecodecamp.org/) (Em progresso).
+- Curso de Responsive Web Design Certification pela [freeCodeCamp](https://www.freecodecamp.org/) (Em progresso).
